@@ -5,6 +5,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+::-webkit-scrollbar {
+    width: 0px;
+  }
 a{
     text-decoration: none;
 }
